@@ -1,10 +1,4 @@
-You can check it out here: https://bmi-calc-3ca69.web.app
-
-
-
-
-
-BMI Calculator
+#BMI Calculator
 
 The Custom BMI Calculator is a web-based tool designed to help users calculate their Body Mass Index (BMI) by inputting their weight in kilograms (kg) and height in feet. This project serves as a testament to my JavaScript proficiency, highlighting my web development skills. Below are the key features and functionalities of this BMI calculator:
 
